@@ -1,12 +1,12 @@
 # UnvibeCode challenge: findings and adoption proposal
 
-Agent-assisted public-repository trials prepared for Mahesh Thakur for the UnvibeCode Engineering Challenge 2026.
+Agent-assisted public-repository trials for the UnvibeCode Engineering Challenge 2026.
 
 ## Status
 
 - Track 2 was submitted through the challenge form on 4 November 2026.
 - Track 1 below is a prepared issue draft, not an issue posted to the upstream tracker.
-- AI assistance is disclosed. These are tool-run observations, not a claim that Mahesh personally executed every command.
+- AI assistance is disclosed. These are tool-run observations, not a claim that the participant personally executed every command.
 - Tested with unvibecode 0.3.15 on Linux / Python 3.12. Ruby reviews were inspected at the completed code-understanding stage using interim context ZIPs; they are not claimed as completed full workflow reviews.
 
 ## Repositories tested
